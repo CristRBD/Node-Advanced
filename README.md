@@ -1,6 +1,6 @@
 # Advanced: DeFi Transaction and Staking Platform
 
-Simulates a DeFi platform with token transfers, staking, and portfolio tracking using `bignumber.js`, `multihash`, and `eventemitter3`. **Contains intentional bugs requiring execution and debugging.**
+Simulates a DeFi platform with token transfers, staking, and portfolio tracking. **Contains intentional bugs requiring execution and debugging.**
 
 ## Source Code
 - **File**: `advanced.js`
